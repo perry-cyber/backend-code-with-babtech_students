@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "perry-backend",
+  "version": "1.0.0",
+  "description": "this is a backend file for learning",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "author": "perryCyber",
+  "license": "ISC"
+}
